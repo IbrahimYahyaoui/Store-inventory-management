@@ -1,3 +1,11 @@
+# NOTE
+
+Despite the fact that there might be more efficient alternatives like MongoDB to improve the code, I have chosen to use Firebase for this particular code in order to gain a better understanding of it. Additionally, I intend to incorporate Context with React.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
