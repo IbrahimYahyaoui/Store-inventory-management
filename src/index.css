@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .navitems {
+    @apply m-4 py-2 px-4 border cursor-pointer rounded-md;
+  }
+}
